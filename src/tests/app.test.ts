@@ -282,7 +282,7 @@ describe("deductDimensionBy2()", () => {
     expect(result).toEqual(expected);
   });
 
-  it("should convert 5*5 array to 2*2 array", () => {
+  it("should convert 5*5 array to 3*3 array", () => {
     const mockInput = [
       [1, 2, 3, 4, 5],
       [6, 7, 8, 9, 10],

@@ -12,6 +12,12 @@ $ npm install
 $ npm run build
 ```
 
+## Tests
+
+```bash
+$ npm run tests
+```
+
 ### NOTE
 
 Please put the csv file as the input file in the root directory of the project the run `node cli.js input.csv > output.csv`.
